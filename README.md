@@ -55,6 +55,6 @@ Here are an idea of what your `frontend` might look like
 
 ![todo-idea](./resources/todo-idea.png)
 
-> [!WARN]
+> [!WARNING]
 > You do not need to worry about folder structure for now. Next project we will discuss
 > about server folder structure and organization.
